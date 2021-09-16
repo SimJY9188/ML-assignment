@@ -11,3 +11,4 @@ Assignment during Bachelor Degree Year 3 Semester 1 Study
     5. Decision Tree Classifier
     6. Random Forest Classifier
 
+📙 This code is only for assignent purpose, not for bussiness use.
